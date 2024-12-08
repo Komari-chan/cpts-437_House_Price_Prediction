@@ -1,0 +1,16 @@
+Seed: 7
+
+GBM Metrics:
+  RMSE: 87914.1
+  R2: 0.559
+  MAE: 67962.75
+
+XGBoost Metrics:
+  RMSE: 88019.04
+  R2: 0.558
+  MAE: 67650.06
+
+Random Forest Metrics:
+  RMSE: 88343.01
+  R2: 0.554
+  MAE: 67388.89
